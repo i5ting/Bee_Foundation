@@ -5,7 +5,7 @@
 
 ## 外部依赖lib说明
 
-![外部依赖lib说明]{src/doc/dep.png}
+![外部依赖lib说明](src/doc/dep.png)
 
 
 ## 升级到Xcode4.6后头文件<libxml/tree.h>找不到
