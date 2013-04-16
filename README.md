@@ -3,6 +3,8 @@
 这是基础类库
 
 
+git submodule add https://github.com/i5ting/Bee_Vendor.git vendor/Bee_Vendor
+
 ## 外部依赖lib说明
 
 ![外部依赖lib说明](src/doc/dep.png)
